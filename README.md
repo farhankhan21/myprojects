@@ -3,5 +3,6 @@ This Repository includes all my projects which i have completed. The list is giv
 
 1) Cancer Detection Using CNN in Google Colab. (Keras)
 2) Super Resolution Using SRGAN in Google Colab (Tensorflow) 
+3) Energy Aware Coverage Path Planning of UAV’s (python)
 
 
