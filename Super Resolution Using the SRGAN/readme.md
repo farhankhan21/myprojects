@@ -1,6 +1,6 @@
 Code execution:
 
-The project is developed in Google Colab and consist of 2 files that has to be executed. First make a folder on google share drive and placed the files in it. Download the celeb dataset from the link below and upload to the google drive with 60% in celeb_HR and 40 in celeb_LR. 
+The project is developed in python tensorlfow environment and implemented on Google Colab. It consists of 2 files that has to be executed. First make a folder on google share drive and placed the files in it. Download the celeb dataset from the link below and upload to the google drive with 60% in celeb_HR and 40 in celeb_LR. 
 
 •	Open the main file and execute the first code section.
 
