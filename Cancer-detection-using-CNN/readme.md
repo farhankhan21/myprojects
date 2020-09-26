@@ -4,3 +4,5 @@ The code is setup in COLAB, framework is keras and I have uploaded one folder of
 2)	After mount drive command, in the next command paste this cd /content/gdrive/My Drive/8863.
 3)	Rest of the commands will be executed in sequential manner.
 
+
+Note: The data folder can be found from kaggle. 
